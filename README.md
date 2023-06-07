@@ -1,3 +1,5 @@
+
+<div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm yaseen</h1>
 <h3 align="center">A passionate full stack developer from spain</h3>
 
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yvseenn&show_icons=true&locale=en" alt="yvseenn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvseenn&" alt="yvseenn" /></p>
+  </div>
