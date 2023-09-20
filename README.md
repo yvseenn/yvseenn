@@ -18,8 +18,9 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
-## Github Stats  
+<br/>
+
+## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yvseenn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
